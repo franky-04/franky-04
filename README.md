@@ -33,11 +33,11 @@ _(Ricorda di personalizzare questa sezione con le TUE tecnologie!)_
 * <0xF0><0x9F><0x96><0xB3>️ **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ### 📊 Le Mie Statistiche GitHub (Opzionale)
 _(Sostituisci 'tuo-username-github' con il tuo username!)_
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username-github&show_icons=true&theme=radical&count_private=true&locale=it" alt="Statistiche GitHub di Giancarlo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franky-04&show_icons=true&theme=radical&count_private=true&locale=it" alt="Statistiche GitHub di Giancarlo" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username-github&layout=compact&theme=radical&locale=it" alt="Linguaggi più usati da Giancarlo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franky-04&layout=compact&theme=radical&locale=it" alt="Linguaggi più usati da Giancarlo" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuo-username-github&theme=radical&locale=it" alt="GitHub Streak di Giancarlo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franky-04&theme=radical&locale=it" alt="GitHub Streak di Giancarlo" />
 </p>
 
 ---
