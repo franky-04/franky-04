@@ -77,3 +77,41 @@ _(Replace 'tuo-username-github' with your username!)_
 </p>
 
 ---
+
+---
+
+<a name="-español"></a>
+## 🇪🇸 Español
+
+¡Hola! 👋 Soy Giancarlo.
+
+Soy un Desarrollador de Software **Full Stack** apasionado por [Menciona 1-2 áreas específicas de interés, ej: desarrollo web moderno, soluciones en la nube, aplicaciones basadas en datos] con sede en Palermo, Italia. Disfruto construyendo aplicaciones [adjetivo, ej: eficientes, escalables, intuitivas] y resolviendo problemas complejos.
+
+### 🚀 Quién Soy & Qué Hago
+* 💻 Desarrollador Full Stack con experiencia en [breve descripción experiencia, ej: diseño, desarrollo y mantenimiento de aplicaciones web completas].
+* 🔭 Actualmente estoy trabajando en [Nombre Proyecto Personal o Tecnología que estás explorando].
+* 🌱 Estoy aprendiendo [Nueva Tecnología, Lenguaje o Framework, ej: Rust, Qwik, Terraform].
+* 👯 Estoy buscando colaborar en proyectos [Tipo de Proyectos, ej: open-source, aplicaciones web innovadoras, herramientas para desarrolladores].
+* 💬 Pregúntame sobre [Temas en los que eres experto o te apasionan, ej: JavaScript/TypeScript, Arquitecturas de Microservicios, Mejores Prácticas DevOps].
+* ⚡ Dato curioso: [Un dato divertido o hobby no técnico, ej: Me encanta el senderismo / Soy un gran aficionado al café de especialidad].
+
+### 🛠️ Lenguajes y Herramientas | Tech Stack
+_(¡Recuerda personalizar esta sección con TUS tecnologías!)_
+* **Frontend:** [React] ![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge), [TypeScript] ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge), [CSS3/Sass] ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge) ...
+* **Backend:** [Node.js] ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge), [Python] ![Python Badge](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ...
+* **Database:** [PostgreSQL] ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge), [MongoDB] ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) ...
+* **DevOps & Cloud:** [Docker] ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge), [AWS] ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge), [Git] ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ...
+
+### 📫 Cómo Contactarme | Conectemos
+* <0xF0><0x9F><0xAA><0x90> **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
+* <0xF0><0x9F><0x96><0xB3>️ **Sitio Web Personal:** [Tu sitio web](https://tu-sitio-web.com) ### 📊 Mis Estadísticas de GitHub (Opcional)
+_(¡Reemplaza 'tuo-username-github' con tu nombre de usuario!) - Nota: 'locale=es' para traducir parcialmente la tarjeta si es soportado_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username-github&show_icons=true&theme=radical&count_private=true&locale=es" alt="Estadísticas de GitHub de Giancarlo" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username-github&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados por Giancarlo" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuo-username-github&theme=radical&locale=es" alt="Racha de GitHub de Giancarlo" />
+</p>
+
+---
