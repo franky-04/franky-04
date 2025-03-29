@@ -30,17 +30,7 @@ _(Ricorda di personalizzare questa sezione con le TUE tecnologie!)_
 
 ### 📫 Come Contattarmi | Let's Connect
 * <0xF0><0x9F><0xAA><0x90> **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* <0xF0><0x9F><0x96><0xB3>️ **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ### 📊 Le Mie Statistiche GitHub (Opzionale)
-_(Sostituisci 'tuo-username-github' con il tuo username!)_
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franky-04&show_icons=true&theme=radical&count_private=true&locale=it" alt="Statistiche GitHub di Giancarlo" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franky-04&layout=compact&theme=radical&locale=it" alt="Linguaggi più usati da Giancarlo" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franky-04&theme=radical&locale=it" alt="GitHub Streak di Giancarlo" />
-</p>
-
----
+* <0xF0><0x9F><0x96><0xB3>️ **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ---
 
 <a name="-english"></a>
 ## 🇬🇧 English
@@ -66,19 +56,7 @@ _(Remember to customize this section with YOUR technologies!)_
 
 ### 📫 How to Reach Me | Let's Connect
 * <0xF0><0x9F><0xAA><0x90> **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/giancarlo-urone/)
-* <0xF0><0x9F><0x96><0xB3>️ **Personal Website:** [Your Website](https://your-website.com) ### 📊 My GitHub Stats (Optional)
-_(Replace 'tuo-username-github' with your username!)_
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username-github&show_icons=true&theme=radical&count_private=true&locale=en" alt="Giancarlo's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username-github&layout=compact&theme=radical&locale=en" alt="Giancarlo's Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuo-username-github&theme=radical&locale=en" alt="Giancarlo's GitHub Streak" />
-</p>
-
----
-
----
+* <0xF0><0x9F><0x96><0xB3>️ **Personal Website:** [Your Website](https://your-website.com) ---
 
 <a name="-español"></a>
 ## 🇪🇸 Español
@@ -104,14 +82,16 @@ _(¡Recuerda personalizar esta sección con TUS tecnologías!)_
 
 ### 📫 Cómo Contactarme | Conectemos
 * <0xF0><0x9F><0xAA><0x90> **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* <0xF0><0x9F><0x96><0xB3>️ **Sitio Web Personal:** [Tu sitio web](https://tu-sitio-web.com) ### 📊 Mis Estadísticas de GitHub (Opcional)
-_(¡Reemplaza 'tuo-username-github' con tu nombre de usuario!) - Nota: 'locale=es' para traducir parcialmente la tarjeta si es soportado_
+* <0xF0><0x9F><0x96><0xB3>️ **Sitio Web Personal:** [Tu sitio web](https://tu-sitio-web.com) ---
+
+## 📊 GitHub Stats
+_(Opzionale - Sostituisci 'tuo-username-github' con il tuo username!)_
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username-github&show_icons=true&theme=radical&count_private=true&locale=es" alt="Estadísticas de GitHub de Giancarlo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username-github&show_icons=true&theme=radical&count_private=true" alt="Statistiche GitHub di Giancarlo" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username-github&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados por Giancarlo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username-github&layout=compact&theme=radical" alt="Linguaggi più usati da Giancarlo" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuo-username-github&theme=radical&locale=es" alt="Racha de GitHub de Giancarlo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuo-username-github&theme=radical" alt="GitHub Streak di Giancarlo" />
 </p>
 
 ---
