@@ -1,4 +1,4 @@
-# Ciao! 👋 Sono [Il Tuo Nome]
+# Ciao! 👋 Sono Giancarlo
 
 <img src="https://www.inpi.fr/proteger-vos-creations/proteger-votre-creation-esthetique/les-etapes-cles-du-depot-de-dessin-et" alt="Banner Profilo" width="100%"/>
 
