@@ -29,8 +29,8 @@ _(Ricorda di personalizzare questa sezione con le TUE tecnologie!)_
 * **DevOps & Cloud:** [Docker] ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge), [AWS] ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge), [Git] ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ...
 
 ### 📫 Come Contattarmi | Let's Connect
-* <0xF0><0x9F><0xAA><0x90> **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* <0xF0><0x9F><0x96><0xB3>️ **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ---
+* 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
+* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ```
 
 <a name="-english"></a>
 ## 🇬🇧 English
@@ -55,8 +55,8 @@ _(Remember to customize this section with YOUR technologies!)_
 * **DevOps & Cloud:** [Docker] ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge), [AWS] ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge), [Git] ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ...
 
 ### 📫 How to Reach Me | Let's Connect
-* <0xF0><0x9F><0xAA><0x90> **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/giancarlo-urone/)
-* <0xF0><0x9F><0x96><0xB3>️ **Personal Website:** [Your Website](https://your-website.com) ---
+* 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
+* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ```
 
 <a name="-español"></a>
 ## 🇪🇸 Español
@@ -81,17 +81,17 @@ _(¡Recuerda personalizar esta sección con TUS tecnologías!)_
 * **DevOps & Cloud:** [Docker] ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge), [AWS] ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge), [Git] ![Git Badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ...
 
 ### 📫 Cómo Contactarme | Conectemos
-* <0xF0><0x9F><0xAA><0x90> **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* <0xF0><0x9F><0x96><0xB3>️ **Sitio Web Personal:** [Tu sitio web](https://tu-sitio-web.com) ---
+* 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
+* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ```
 
 ## 📊 GitHub Stats
-_(Opzionale - Sostituisci 'tuo-username-github' con il tuo username!)_
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuo-username-github&show_icons=true&theme=radical&count_private=true" alt="Statistiche GitHub di Giancarlo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franky-04&show_icons=true&theme=radical&count_private=true" alt="Statistiche GitHub di Giancarlo" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username-github&layout=compact&theme=radical" alt="Linguaggi più usati da Giancarlo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franky-04&layout=compact&theme=radical" alt="Linguaggi più usati da Giancarlo" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuo-username-github&theme=radical" alt="GitHub Streak di Giancarlo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franky-04&theme=radical" alt="GitHub Streak di Giancarlo" />
 </p>
 
 ---
