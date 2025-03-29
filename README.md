@@ -30,7 +30,7 @@ _(Ricorda di personalizzare questa sezione con le TUE tecnologie!)_
 
 ### 📫 Come Contattarmi | Let's Connect
 * 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ```
+* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) 
 
 <a name="-english"></a>
 ## 🇬🇧 English
@@ -56,7 +56,7 @@ _(Remember to customize this section with YOUR technologies!)_
 
 ### 📫 How to Reach Me | Let's Connect
 * 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ```
+* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) 
 
 <a name="-español"></a>
 ## 🇪🇸 Español
@@ -82,7 +82,7 @@ _(¡Recuerda personalizar esta sección con TUS tecnologías!)_
 
 ### 📫 Cómo Contactarme | Conectemos
 * 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) ```
+* 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) 
 
 ## 📊 GitHub Stats
 
