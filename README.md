@@ -85,15 +85,6 @@ _(¡Recuerda personalizar esta sección con TUS tecnologías!)_
 * 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) 
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franky-04&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Statistiche GitHub di Giancarlo" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franky-04&layout=compact&theme=radical&count_private=true" alt="Linguaggi più usati da Giancarlo" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franky-04&theme=radical" alt="GitHub Streak di Giancarlo" />
-</p>
-
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </p>
