@@ -48,8 +48,8 @@ jobs:
           plugin_achievements_display: compact  # Stile di visualizzazione
           
           # Mostra statistiche di follow
-          #plugin_people: yes
-          #plugin_people_types: followers, following
+          plugin_people: yes
+          plugin_people_types: followers, following
           
           # Mostra repository notevoli
           plugin_notable: yes
