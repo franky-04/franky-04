@@ -39,3 +39,18 @@ jobs:
           
           # Mostra contributi alle organizzazioni
           repositories_affiliations: owner, collaborator, organization_member
+          # Aggiungi questi parametri nella sezione with:
+
+          # Mostra achievement badge
+          plugin_achievements: yes
+          plugin_achievements_threshold: B      # Livello minimo (S/A/B/C)
+          plugin_achievements_secrets: yes      # Mostra achievement segreti
+          plugin_achievements_display: compact  # Stile di visualizzazione
+          
+          # Mostra statistiche di follow
+          plugin_people: yes
+          plugin_people_types: followers, following
+          
+          # Mostra repository notevoli
+          plugin_notable: yes
+          plugin_notable_repositories: yes
