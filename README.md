@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#-italiano">🇮🇹 Italiano</a> | <a href="#-english">🇬🇧 English</a> | <a href="#-español">🇪🇸 Español</a>
+  <a href="#-italiano">:it: Italiano</a> | <a href="#-english">:uk: English</a> | <a href="#-español">:es: Español</a>
 </div>
 
 <img src="banner.jpg" alt="Banner Profilo Giancarlo" width="100%"/>
