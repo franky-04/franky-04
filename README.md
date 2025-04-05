@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="#-italiano">:it: Italiano</a> | <a href="#-english">:uk: English</a> | <a href="#-español">:es: Español</a>
+  <a href="#-italiano"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/it.svg" width="15" alt="Italiano"> Italiano</a> | 
+  <a href="#-english"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="15" alt="English"> English</a> | 
+  <a href="#-español"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="15" alt="Español"> Español</a>
 </div>
 
 <img src="banner.jpg" alt="Banner Profilo Giancarlo" width="100%"/>
