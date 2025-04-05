@@ -94,4 +94,7 @@ _(¡Recuerda personalizar esta sección con TUS tecnologías!)_
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franky-04&theme=radical" alt="GitHub Streak di Giancarlo" />
 </p>
 
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
+</p>
 ---
