@@ -27,7 +27,7 @@ _(Remember to customize this section with YOUR technologies!)_
 * 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
 * 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) 
 
-<br>
+---
 ## 📊 GitHub Stats
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
