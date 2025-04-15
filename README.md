@@ -1,15 +1,8 @@
-<div align="center">
-  <a href="#-italiano"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/it.svg" width="15" alt="Italiano"> Italiano</a> | 
-  <a href="#-english"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gb.svg" width="15" alt="English"> English</a> | 
-  <a href="#-español"><img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg" width="15" alt="Español"> Español</a>
-</div>
 
 <img src="banner.jpg" alt="Banner Profilo Giancarlo" width="100%"/>
 
 ---
 
-<a name="-english"></a>
-## 🇬🇧 English
 
 Hi! 👋 I'm Giancarlo.
 
@@ -34,7 +27,7 @@ _(Remember to customize this section with YOUR technologies!)_
 * 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
 * 🌐 **Sito Web Personale:** [Il tuo sito web](https://tuo-sito.com) 
 
-
+<br>
 ## 📊 GitHub Stats
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
