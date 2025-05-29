@@ -65,8 +65,6 @@ I'm a **Full Stack Software Developer** passionate about **modern web developmen
 
 * 📧 **Email:** [giancarlourone4@gmail.com](mailto:giancarlourone4@gmail.com)
 * 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* 📞 **Phone:** +39 3663302861
-* 🌐 **GitHub:** [franky-04](https://github.com/franky-04)
 
 ---
 
@@ -98,6 +96,4 @@ I'm a **Full Stack Software Developer** passionate about **modern web developmen
 - Organized international events and provided support for Erasmus students
 - Board member and Secretary (Mar 2023 - Aug 2023)
 
----
 
-*💡 "Building the future, one line of code at a time" 💡*
