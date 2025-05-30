@@ -65,7 +65,7 @@ I'm a **Full Stack Software Developer** passionate about **modern web developmen
 
 * 📧 **Email:** [giancarlourone4@gmail.com](mailto:giancarlourone4@gmail.com)
 * 🔗 **LinkedIn:** [Profilo LinkedIn](https://www.linkedin.com/in/giancarlo-urone/)
-* 🌐 **Personal Website:** [Personal website](https://giancarlourone.dev//)
+* 🌐 **Personal Website:** [giancarlourone.dev](https://giancarlourone.dev//)
 ---
 
 ## 📊 GitHub Stats
