@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Banner Profilo Giancarlo" width="100%"/>
+<img src="banner2.jpg" alt="Banner Profilo Giancarlo" width="100%"/>
 
 ---
 
